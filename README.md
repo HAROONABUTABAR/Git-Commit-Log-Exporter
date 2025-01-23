@@ -43,4 +43,4 @@ A powerful Dart tool that transforms your Git commit history into beautifully fo
 ```
 
 
- <img src="Screenshot 2025-01-23 at 12.49.43 PM.png" width="100" />
+ <img src="Screenshot 2025-01-23 at 12.49.43 PM.png" width="500" />
