@@ -41,3 +41,6 @@ A powerful Dart tool that transforms your Git commit history into beautifully fo
     "dart.previewHotReloadOnSaveWatcher": true
 }
 ```
+
+
+ <img src="![alt text](<Screenshot 2025-01-23 at 12.49.43 PM.png>)" width="100" />
